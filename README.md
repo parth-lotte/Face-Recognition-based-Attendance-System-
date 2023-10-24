@@ -1,7 +1,7 @@
 
 # Face Recognition Attendance System
 
-This is a **Python Flask Web Application** that appears to be designed for facial recognition-based attendance management. It allows users to perform several actions related to attendance tracking and user registration. Here's a brief description of what this project does and who it's for:
+This is a **Python Flask Web Application** that is designed for facial recognition-based attendance management. It allows users to perform several actions related to attendance tracking and user registration. Here's a brief description of what this project does and who it's for:
 
 1. **User Registration**: The application allows users to register by capturing images of their faces. It captures multiple images of a user's face to train a machine learning model for face recognition.
 
